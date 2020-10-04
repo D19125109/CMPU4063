@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+<div>
+  <header>layer1</header>
+  <nav>layer2</nav>
+  <aside>layer3</aside>
+
+  <main>
+    layer 4
+    <div>layer5</div>
+    <div>layer6</div>
+    <article>layer7</article>
+    <article>layer8</article>
+    <article>layer9</article>
+    <article>layer10</article>
+  </main>
+</div>
+
+<table border="1">
+  <tr>
+    <td colspan="2"> banner </td>
+
+  </tr>
+  <tr>
+    <td colspan="2"> navigation </td>
+
+  </tr>
+  <tr>
+    <td>main content</td>
+    <td>side bar</td>
+  </tr>
+
+
+</table>
+
+<table border="1">
+  <tr>
+    <td rowspan="3">Banner </td>
+  </tr>
+
+  <tr>
+    <td> navigation </td>
+    <td> content </td>
+    <td> content </td>
+  </tr>
+
+
+</html>
